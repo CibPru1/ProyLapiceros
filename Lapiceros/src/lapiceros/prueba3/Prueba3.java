@@ -17,7 +17,6 @@ public class Prueba3 {
 				new Persona("Maria", "Rodriguez", Salarios.MEDIO.getSalario(),"1876-09-15", "fausto@gmail.com"),
 				new Persona("Sofia", "Rodriguez", Salarios.MEDIO.getSalario(),"1876-09-15", "fausto@gmail.com")
 				);
-		
 		listPersonas.forEach(System.out::println);
 	}
 
